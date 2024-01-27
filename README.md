@@ -15,8 +15,12 @@ Space Invaders is a classic arcade-style game built in Python using the Pygame l
 - Increasing difficulty levels
 
 ## Screenshots
+![image](https://github.com/ShivanshKothari/space-invaders/assets/105049306/473dd4c5-b3d4-4369-993e-9535e9ac9a7d)
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![image](https://github.com/ShivanshKothari/space-invaders/assets/105049306/36db35ee-347c-42a0-9d9c-5f589e20a23a)
+
+![image](https://github.com/ShivanshKothari/space-invaders/assets/105049306/608f7a4b-d99e-4a27-b996-47d02e49a068)
+
 
 ## Getting Started
 
