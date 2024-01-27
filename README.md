@@ -1,6 +1,5 @@
-Certainly! Here's a simple README.md template for your Space Invaders project:
 
-```markdown
+
 # Space Invaders Game
 
 ## Overview
