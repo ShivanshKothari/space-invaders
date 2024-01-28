@@ -27,7 +27,7 @@ Space Invaders is a classic arcade-style game built in Python using the Pygame l
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ShivanshKothari/space-invaders/
+   git clone https://github.com/ShivanshKothari/space-invaders.git
    cd Space-Invaders
    ```
 
